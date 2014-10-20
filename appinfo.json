@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Orviwan",
+    "longName": "Guitar Lesson Timer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Guitar Lesson Timer",
+    "uuid": "1f1b7ca7-8a5e-49c8-8dfd-a69af6c9333b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
